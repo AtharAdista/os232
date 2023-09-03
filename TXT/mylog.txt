@@ -3,3 +3,11 @@
 # LogCode : https://osp4diss.vlsm.org/ETC/logCodes.txt
 ZCZC W00 10 L00 General, etc.
 ZCZC W00 5 L01 SCELE/DISCORD related
+ZCZC W00 100 L02 CLASSROOM in Tuesday
+ZCZC W00 10 L10 Reading assignment #00
+ZCZC W00 60 L21 Trying ubuntu
+ZCZC W00 100 L02 CLASSROOM in Thursday
+ZCZC W00 30 L03 Github for OS
+ZCZC W00 15 L04 Github page
+ZCZC W00 60 L05 Preparing for quiz 
+
