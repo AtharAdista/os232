@@ -10,4 +10,13 @@ ZCZC W00 100 L02 CLASSROOM in Thursday
 ZCZC W00 30 L03 Github for OS
 ZCZC W00 15 L04 Github page
 ZCZC W00 60 L05 Preparing for quiz 
+ZCZC W01 20 L00 General, etc.
+ZCZC W01 15 L01 SCELE/DISCORD related
+ZCZC W01 20 L02 Reading assignment #01
+ZCZC W01 100 L02 CLASSROOM in Tuesday
+ZCZC W01 20 L61 Installing Virtual Box
+ZCZC W01 5 L62 Installing Virtual Debian Guest
+ZCZC W01 100 L02 CLASSROOM in Thursday
+ZCZC W01 60 L05 Studying for quiz
+ZCZC W01 10 L62 Reinstall Virtual Debian Guest
 
