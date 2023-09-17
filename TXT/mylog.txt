@@ -28,3 +28,4 @@ ZCZC W02 5 SCELE/DISCORD related
 ZCZC W02 100 CLASSROOM in Thursday
 ZCZC W02 60 L05 Preparing for quiz
 ZCZC W02 90 L11 Assignment #02
+ZCZC W02 10 L23 make bash WEEK02
