@@ -29,3 +29,13 @@ ZCZC W02 100 L02 CLASSROOM in Thursday
 ZCZC W02 60 L05 Preparing for quiz
 ZCZC W02 90 L11 Assignment #02
 ZCZC W02 10 L23 make bash WEEK02
+ZCZC W03 10 L01 SCELE/DISCORD related
+ZCZC W03 5 L13 Reading assignment #03
+ZCZC W03 100 L02 CLASSROOM in Tuesday
+ZCZC W03 5 L01 SCELE/DISCORD related
+ZCZC W03 100 L02 CLASSROOM in Thursday
+ZCZC W03 60 L13 Doing assignment #03
+ZCZC W03 60 L05 preparing for quiz
+ZCZC W03 60 L09 Doing pop quiz
+ZCZC W03 40 L13 Finish assignment #03
+ZCZC W03 10 L03 Github related
