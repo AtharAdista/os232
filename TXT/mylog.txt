@@ -39,3 +39,4 @@ ZCZC W03 60 L05 preparing for quiz
 ZCZC W03 60 L09 Doing pop quiz
 ZCZC W03 40 L13 Finish assignment #03
 ZCZC W03 10 L03 Github related
+ZCZC W03 5 L03 Github related
