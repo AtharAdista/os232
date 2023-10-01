@@ -40,3 +40,9 @@ ZCZC W03 60 L09 Doing pop quiz
 ZCZC W03 40 L13 Finish assignment #03
 ZCZC W03 10 L03 Github related
 ZCZC W03 5 L03 Github related
+ZCZC W04 10 L01 SCELE/DISCORD related
+ZCZC W04 100 L02 CLASSROOM in Tuesday
+ZCZC W04 10 L01 SCELE/DISCROD related
+ZCZC W04 30 L03 Github related
+ZCZC W04 60 L14 Doing assignment #04
+ZCZC W04 60 L09 Doing pop quiz 
