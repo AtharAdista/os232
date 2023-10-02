@@ -45,4 +45,6 @@ ZCZC W04 100 L02 CLASSROOM in Tuesday
 ZCZC W04 10 L01 SCELE/DISCROD related
 ZCZC W04 30 L03 Github related
 ZCZC W04 60 L14 Doing assignment #04
-ZCZC W04 60 L09 Doing pop quiz 
+ZCZC W04 60 L09 Doing pop quiz
+ZCZC W04 30 L09 Doing pop quiz
+ZCZC W04 10 L03 Github related
