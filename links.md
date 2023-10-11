@@ -11,5 +11,4 @@ permalink: LINKS/
 * [Linux File System/Structure Explained!](https://www.youtube.com/watch?v=HbgzrKJvDRw) -- Learning about file system/structure in linux
 * [Linux Explained | Mounting File Systems](https://www.youtube.com/watch?v=ssdFIWbVKZ4) -- Watch this video if you want to know more about mounting file system in linux.
 * [Linux Tutorials | Compressing and Archiving Files in Linux | tar and zip commands | GeeksforGeeks](https://www.youtube.com/watch?v=KucqplDh7LI) -- This video is about how we can tar and zip a folder in linux. This video help me to finish pop quiz.
-
-
+* [What is virtual memory? – Gary explains](https://www.youtube.com/watch?v=2quKyPnUShQ&t=175s) -- This video is abput a virtual memory.
