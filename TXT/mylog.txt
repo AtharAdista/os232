@@ -57,3 +57,10 @@ ZCZC W05 60 L09 Finish pop quiz
 ZCZC W05 5 L01 SCELE/DISCORD related
 ZCZC W05 100 L02 CLASSROOM
 ZCZC W05 30 L15 Finish assignment #05
+ZCZC W06 5 L01 SCELE/DISCORD related
+ZCZC W06 100 L02 CLASSROOM in Tuesday
+ZCZC W06 10 L01 SCELE/DISCORD related
+ZCZC W06 100 L02 CLASSROOM in Thursday
+ZCZC W06 60 L16 Doing assignment #06 (not finish yet)
+ZCZC W06 60 L09 Doing pop quiz
+ZCZC W06 30 L16 Finish assignment #06
