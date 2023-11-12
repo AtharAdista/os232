@@ -13,3 +13,4 @@ permalink: LINKS/
 * [Linux Tutorials | Compressing and Archiving Files in Linux | tar and zip commands | GeeksforGeeks](https://www.youtube.com/watch?v=KucqplDh7LI) -- This video is about how we can tar and zip a folder in linux. This video help me to finish pop quiz.
 * [What is virtual memory? – Gary explains](https://www.youtube.com/watch?v=2quKyPnUShQ&t=175s) -- This video is abput a virtual memory.
 * [The fork() function in C](https://www.youtube.com/watch?v=cex9XrZCU14) -- Watch this video if you still confused what is fork() 
+* [What is a semaphore? How do they work? (Example in C)](https://www.youtube.com/watch?v=ukM_zzrIeXs&t=439s) -- If you want to know about semaphore in C

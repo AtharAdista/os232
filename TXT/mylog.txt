@@ -64,3 +64,9 @@ ZCZC W06 100 L02 CLASSROOM in Thursday
 ZCZC W06 60 L16 Doing assignment #06 (not finish yet)
 ZCZC W06 60 L09 Doing pop quiz
 ZCZC W06 30 L16 Finish assignment #06
+ZCZC W07 10 L01 SCELE/DISCORD related
+ZCZC W07 100 L02 CLASSROOM in Thrusday
+ZCZC W07 10 L01 SCELE/DISCORD related
+ZCZC W07 60 L05 preparing for quiz
+ZCZC W07 60 L17 Doing assignment #07
+ZCZC W07 60 L09 Doing pop quiz
