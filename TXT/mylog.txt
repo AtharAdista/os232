@@ -68,5 +68,7 @@ ZCZC W07 10 L01 SCELE/DISCORD related
 ZCZC W07 100 L02 CLASSROOM in Thrusday
 ZCZC W07 10 L01 SCELE/DISCORD related
 ZCZC W07 60 L05 preparing for quiz
-ZCZC W07 60 L17 Doing assignment #07
+ZCZC W07 90 L17 Doing assignment #07
 ZCZC W07 60 L09 Doing pop quiz
+ZCZC W07 30 L17 Finish assignment #07
+ZCZC W07 30 L09 Finish pop quiz
