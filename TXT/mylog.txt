@@ -71,4 +71,4 @@ ZCZC W07 60 L05 preparing for quiz
 ZCZC W07 90 L17 Doing assignment #07
 ZCZC W07 60 L09 Doing pop quiz
 ZCZC W07 30 L17 Finish assignment #07
-ZCZC W07 40 L09 Finish pop quiz
+ZCZC W07 30 L09 Finish pop quiz
