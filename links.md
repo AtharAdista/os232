@@ -15,3 +15,5 @@ permalink: LINKS/
 * [The fork() function in C](https://www.youtube.com/watch?v=cex9XrZCU14) -- Watch this video if you still confused what is fork() 
 * [What is a semaphore? How do they work? (Example in C)](https://www.youtube.com/watch?v=ukM_zzrIeXs&t=439s) -- If you want to know about semaphore in C
 * [CPU Scheduling Basics](https://www.youtube.com/watch?v=Jkmy2YLUbUY) --Watch this if you want to know about scheduling
+* [What is BIOS ? | Explained](https://www.youtube.com/watch?v=rI4hCfVziQk) -- Watch this if you want to know about BIOS
+
